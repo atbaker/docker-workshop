@@ -59,3 +59,5 @@ docker push [your namespace]/redis-password
 ```
 
 Now your new image is available for anyone to use! https://hub.docker.com/u/
+
+Once you're done with that, you can wrap things up with [Exercise 4](exercise-4.md).
