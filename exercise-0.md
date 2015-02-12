@@ -24,7 +24,7 @@ $ boot2docker start
 $ $(boot2docker shellinit)
 ```
 
-**While Docker is dowloading and installing, you can continue to Exercise 1.**
+**While Docker is dowloading and installing, you can continue to [Exercise 1](exercise-1.md).**
 
 ## Windows
 
@@ -32,4 +32,4 @@ A handy open source project called [boot2docker](https://github.com/boot2docker/
 
 Follow the instructions here to install boot2docker on your machine: https://docs.docker.com/installation/windows/
 
-**While Docker is dowloading and installing, you can continue to Exercise 1.**
+**While Docker is dowloading and installing, you can continue to [Exercise 1](exercise-1.md).**
