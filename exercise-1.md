@@ -1,8 +1,6 @@
 # Exercise 1: Docker basics
 
-This exercise will make sure you understand the fundamental concepts of Docker and end with you running the Docker "Hello World" on your laptop.
-
-You don't need to have Docker installed to complete this exercise.
+This exercise will make sure you understand the fundamental concepts of Docker. You don't need to have Docker installed to complete this exercise.
 
 ## What is Docker?
 
