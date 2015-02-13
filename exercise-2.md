@@ -31,6 +31,6 @@ Before you go on, use the [docker command line interface](https://docs.docker.co
 - Start the same container exposing the same port, but run the container in "detached" mode, so that it doesn't tie up your command line
 - While your detached container is running, use the `docker ps` command to see what silly name Docker gave your container
 - While your detached container is still running, look at its logs. Try following its logs and refreshing your browser.
-- Stop your detached container. Then delete it from your system.
+- Stop your detached container. Then delete that container from your system.
 
 When you're ready to create your own Docker images, move on to [Exercise 3](exercise-3.md)!
