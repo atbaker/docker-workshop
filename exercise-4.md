@@ -10,7 +10,11 @@ Clone or download this Git repository: https://github.com/atbaker/nginx-exercise
 
 Using the instructions from [Docker's User Guide](https://docs.docker.com/userguide/dockerimages/#building-an-image-from-a-dockerfile), fill in the blanks in the `Dockerfile` that builds this repository.
 
-You will need to reference the [Nginx installation instructions](http://nginx.org/en/linux_packages.html) as well.
+You will need to reference the [Nginx installation instructions](http://nginx.org/en/linux_packages.html) as well. The extra configuration file you need for the `CMD` part of the Dockerfile is:
+
+```
+CMD ["nginx", "-g", "daemon off;"]
+```
 
 When your Dockerfile can successfully build the image, test it by starting a new container from it. If it works, push that image up to the Docker Hub.
 
