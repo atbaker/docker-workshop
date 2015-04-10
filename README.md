@@ -1,5 +1,7 @@
 # Docker hands-on workshop
 
+**NOTE: Docker moves fast and this tutorial is now out of date. It is kept here as a reference to students who attended this workshop.**
+
 This two hour workshop will take you from "Hello Docker" to deploying a containerized web application to a server.
 
 ## Prerequisites
